@@ -1,0 +1,7 @@
+# Versions this code was run with, on Python 3.10.1.
+# The pin is a lower bound; the version actually used is in the comment.
+numpy>=1.26          # used: 2.2.1
+pandas>=2.0          # used: 2.2.3
+scipy>=1.11          # used: 1.15.3
+matplotlib>=3.8      # used: 3.10.8
+lxml>=5.0            # used: 6.1.1

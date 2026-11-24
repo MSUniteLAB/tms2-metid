@@ -1,0 +1,2 @@
+# never rewrite line endings inside a mass spectrometry file
+*.mzML -text

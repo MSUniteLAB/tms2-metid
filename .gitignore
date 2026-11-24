@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# produced at run time, not source
+cache/
+output/
+
+# the acquisitions are deposited separately, not versioned here
+converted/
+*.mzML
