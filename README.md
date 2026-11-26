@@ -60,8 +60,9 @@ mzML converted from the instrument raw files with ThermoRawFileParser. The runs 
 MS2 acquisitions in positive electrospray: each mass on the inclusion list is fragmented
 whenever it appears, whatever its intensity, which is what makes a pseudo-XIC possible.
 
-No acquisition is included here. One run of the published study is 160 MB, and the complete
-files are deposited separately; see the data availability statement of the paper.
+No acquisition is included here. One run of the published study is 160 MB; the acquisitions
+are available from the corresponding author on request, as stated in the data availability
+statement of the paper.
 
 ## Not in this repository
 
@@ -73,9 +74,9 @@ files are deposited separately; see the data availability statement of the paper
 
 ## Citation
 
-If you use this code, please cite the paper and the archived release of this repository.
+If you use this code, please cite the paper and this repository.
 
-<!-- DOI and full reference to be added when the release is archived. -->
+<!-- Full reference to be added when the paper is published. -->
 
 ## License
 
